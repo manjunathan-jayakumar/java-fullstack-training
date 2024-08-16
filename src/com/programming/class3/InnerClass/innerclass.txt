@@ -1,0 +1,7 @@
+Inner class:
+class within a class,
+class within a interface,
+Interface within a class,
+
+
+When do we actually create an inner class?

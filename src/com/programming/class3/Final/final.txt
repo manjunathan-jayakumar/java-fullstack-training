@@ -1,0 +1,6 @@
+Final keyword
+
+1. final non-static variable - Constructor
+2. final static variable - static initializer block
+3. final method - cannot be overridden any other class
+4. final class - cannot be extended by any other class.

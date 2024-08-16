@@ -1,0 +1,12 @@
+Well, String IS immutable.
+
+whatever method you call on string will return a new string.
+It will not modify the original string.
+This is a desirable property in most cases.
+
+In some cases, we want to modify the original string.
+In those cases, use StringBuffer or StringBuilder - these two are in-built Java Classes.
+StringBuffer - Synchronised, very slow, thread safe.
+StringBuilder - Non-synchronised, fast, not thread safe.
+
+
