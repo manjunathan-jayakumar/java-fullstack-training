@@ -1,4 +1,4 @@
-package com.programming.class3;
+package com.programming.assignments;
 
 import java.util.Arrays;
 

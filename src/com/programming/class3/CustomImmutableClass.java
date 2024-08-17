@@ -57,3 +57,5 @@ public class CustomImmutableClass {
         // These attrs cannot be changed again.
     }
 }
+
+// add `private final` to make them immutable.
