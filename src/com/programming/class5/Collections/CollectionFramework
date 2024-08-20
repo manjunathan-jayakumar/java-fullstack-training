@@ -1,0 +1,17 @@
+Collection Framework
+--------------------
+
+Provides or has given us the architecture to store or manipulate group of objects.
+
+                            Object
+
+                            Iterable
+
+                            Collection
+
+          List                Set
+          ----               -----
+          ArrayList         HasSet
+          LinkedList
+          Vector
+          Stack

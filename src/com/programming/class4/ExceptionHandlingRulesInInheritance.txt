@@ -1,0 +1,7 @@
+Exception Handling Rules In Case of Inheritance:
+
+1. If parent class method (super class method) does not declare any exception,
+then child class can not throw an unchecked exception.
+
+2. If parent declares any exception, the child class can throw the same exception or
+no exception.But cannot throw parent of that exception.

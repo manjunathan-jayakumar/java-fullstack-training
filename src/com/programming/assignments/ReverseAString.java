@@ -15,11 +15,8 @@ public class ReverseAString {
 
     public static String reverseSecondHalf(String str) {
         int len = str.length();
-
         if(len <= 3) return str;
-
         int mid = len%2==0? len/2 : len/2 + 1;
-
         StringBuilder res = new StringBuilder();
         for(int idx = 0; idx < mid; ++idx) {
             res.append(str.charAt(idx));
