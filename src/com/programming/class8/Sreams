@@ -1,0 +1,5 @@
+Can only be used once
+are not designed for storing objects
+are designed for only performing operations on
+group of objects(or collections)
+Original object(collection) always remain intact.
